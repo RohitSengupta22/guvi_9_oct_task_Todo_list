@@ -154,7 +154,7 @@ const TodoInput = () => {
                 <Dropdown.Menu>
                     <Dropdown.Item onClick={allHandler}>All</Dropdown.Item>
                     <Dropdown.Item onClick={compHandler}>Completed</Dropdown.Item>
-                    <Dropdown.Item href="#/action-3">Not Completed</Dropdown.Item>
+                    
                 </Dropdown.Menu>
             </Dropdown>
 
